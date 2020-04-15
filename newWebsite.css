@@ -136,7 +136,7 @@ html{
 
 .animate{
 	box-shadow: 1px 1px 7px 4px white;
-	background-image: url('am5.jpg');
+	background-image: url('me2.jpg');
 	background-size: 100% 100%;
 	background-position: center;
 	width: 100%;
@@ -145,9 +145,9 @@ html{
 }
 
 @keyframes slider{
-	0%{background-image: url('am2.jpg');}
-	35%{background-image: url('am3.jpg');}
-	75%{background-image: url('am4.jpg');}
+	0%{background-image: url('me3.jpg');}
+	35%{background-image: url('me4.jpg');}
+	75%{background-image: url('me5.jpg');}
 }
 
 
